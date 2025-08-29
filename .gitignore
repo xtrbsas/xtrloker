@@ -1,0 +1,10 @@
+# Fichiers sensibles
+.env
+*.key
+*.pem
+*.enc
+*.xtrlocked
+
+# Cache / temporaire
+__pycache__/
+*.pyc
