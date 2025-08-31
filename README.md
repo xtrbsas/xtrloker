@@ -37,3 +37,6 @@ Le code est conçu pour fonctionner tel quel et ne doit pas être modifié.
 ## Licence
 
 Projet créé par xtr – destiné à un usage personnel et éducatif.
+
+<img width="748" height="451" alt="xtrloker9 8" src="https://github.com/user-attachments/assets/2df72024-ddea-466b-b68f-02b73abf7d47" />
+
