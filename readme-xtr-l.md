@@ -16,16 +16,14 @@ Le code est conçu pour fonctionner tel quel et ne doit pas être modifié.
 ## Installation et lancement
 
 1. Rendre le script exécutable (Linux) :  
-      bash
+
    chmod +x xtrloker.py
    
 
-2. Lancer le programme :  
-      bash
-   ./xtrloker.py
-    
-   ou  
-      bash
+2. Lancer le programme : 
+
+   cd xtrloker-public-l
+   cd dist
    python3 xtrloker.py
    
 
