@@ -15,12 +15,13 @@ Le code est conçu pour fonctionner tel quel et ne doit pas être modifié.
 
 ## Installation et lancement
 
-1. Rendre le script exécutable (Linux) :  
+1. Rendre le script exécutable (Linux) :
 
+   git clone https://github.com/xtrbsas/xtrloker.git
    chmod +x xtrloker.py
    
 
-2. Lancer le programme : 
+3. Lancer le programme : 
 
    cd xtrloker-public-l
    cd dist
